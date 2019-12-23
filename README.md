@@ -1,5 +1,4 @@
-
-.:Penjelasan Program 5:.
+						.:Penjelasan Program 5:.
 
  1.Input untuk pilih opsi 
 (A)dd (E)dit (D)elete (S)earch (L)ist (Q)uit 
@@ -14,7 +13,7 @@
 	
 	2.4 semua data akan di tambahkan menjadi value dan key menggunakan nama
 Tampilan hasil
-![]()
+![](screenshot1.jpg)
 
 3.Jika Input E
 
@@ -29,6 +28,8 @@ Tampilan hasil
 	3.3 Jika tidak 
 	
 		3.3.1 Data tidak di temukan
+Tampilan hasil
+![](screenshot2.jpg)
 
 
 4.Jika Input D
@@ -40,7 +41,8 @@ Tampilan hasil
 	4.3 Jika tidak 
 	
 		4.3.1 Data tidak di temukan
-
+Tampilan hasil
+![](screenshot3.jpg)
 
 5.Jika Input S
 
@@ -50,15 +52,23 @@ Tampilan hasil
 
 	5.3 
 		5.3.1 Data tidak di temukan
-
+		
+Tampilan hasil
+![](screenshot4.jpg)
 
 6.Jika Input L
 
 	6.1 Print data.values / memanggil semua values
 
+Tampilan hasil
+![](screenshot4.jpg)
+
 7.Jika Input Q
 
 	7.1 Program Berhenti
+	
+Tampilan hasil
+![](screenshot5.jpg)
 
 8.Jika Input diluar, A,E,D,S,L,Q
 

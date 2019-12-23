@@ -79,3 +79,7 @@ Tampilan hasil
 8.Jika Input diluar, A,E,D,S,L,Q
 
 	8.1 Pilih opsi yang tersedia
+	
+	
+Tampilan flowchart
+![](flowchart.jpg)

@@ -19,7 +19,9 @@ Tampilan hasil
 
 	3.1 Input nama/key yg di cari
 	
-	3.2 Jika nama ada di data.keys ?4.2.1 Input pembaruan data
+	3.2 Jika nama ada di data.keys ?
+	
+	3.2.1 Input pembaruan data
 	
 	3.2.2 Jika nilai nim,tugas,uts,uas, kosong/tidak di isi dengan angka maka ValueError dan meminta input ulang
 	
@@ -50,7 +52,9 @@ Tampilan hasil
 
 	5.1 Input nama/key yg di cari
 	
-	5.2 Jika nama ada di data.keys ?6.2.1 Print nama,nim,uts,tugas,akhir
+	5.2 Jika nama ada di data.keys ?
+	
+	5.2.1 Print nama,nim,uts,tugas,akhir
 
 	5.3 
 		5.3.1 Data tidak di temukan
@@ -63,14 +67,14 @@ Tampilan hasil
 	6.1 Print data.values / memanggil semua values
 
 Tampilan hasil
-![](screenshot4.jpg)
+![](screenshot5.jpg)
 
 7.Jika Input Q
 
 	7.1 Program Berhenti
 	
 Tampilan hasil
-![](screenshot5.jpg)
+![](screenshot6.jpg)
 
 8.Jika Input diluar, A,E,D,S,L,Q
 

@@ -36,7 +36,9 @@ Tampilan hasil
 
 	4.1 Input nama/key yg di cari
 	
-	4.2 Jika nama ada di data.keys ?5.2.1 Maka datanya akan di hapus
+	4.2 Jika nama ada di data.keys ?
+	
+	4.2.1 Maka datanya akan di hapus
 
 	4.3 Jika tidak 
 	
